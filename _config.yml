@@ -1,0 +1,11 @@
+title: minuptt # your name (or website title) here
+logo: "/images/958708_wallpapers-zodiack-cancer-zodiac-the-free-1024x768_1024x768_h.jpg.webp?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
