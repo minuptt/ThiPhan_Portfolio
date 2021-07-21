@@ -5,8 +5,9 @@
 ### Category Name 1 
 
 [Project 1: HIV Estimated Prevalence](https://github.com/minuptt/HIV_Estimated_Prevalence)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 * Discovering and analyzing about HIV estimated prevalence of people ages from 15 to 49 in the world from 1979 to 2011
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
