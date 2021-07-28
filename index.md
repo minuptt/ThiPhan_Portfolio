@@ -11,8 +11,7 @@
 
 ---
 [Project 2: Gender Pay Gap Salary Prediction](/https://github.com/minuptt/Gender_Pay_Salary_Prediction)
-<img src="images/prj2_income?raw=true"/>
-
+<img src="images/prj2_income.png?raw=true"/>
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
