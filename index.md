@@ -4,12 +4,12 @@
 
 ### Category Name 1 
 
-[Project 1: HIV Estimated Prevalence](https://github.com/minuptt/HIV_Estimated_Prevalence)
+# [Project 1: HIV Estimated Prevalence](https://github.com/minuptt/HIV_Estimated_Prevalence)
 
 * Discovering and analyzing about HIV estimated prevalence of people ages from 15 to 49 in the world from 1979 to 2011
 ![](/images/prj1_mean_charts.png)
 
-[Project 2: Gender Pay Gap Salary Prediction](/https://github.com/minuptt/Gender_Pay_Salary_Prediction)
+# [Project 2: Gender Pay Gap Salary Prediction](/https://github.com/minuptt/Gender_Pay_Salary_Prediction)
 
 * Cleaning data
 * Take random 500 samples / 5000 sample to analyze the income gap between female and male employees.
