@@ -17,7 +17,7 @@
 * Define confidence interval and P-value to validate the hypothesis
 ![](images/prj2_income.png)
 
-# [3. Restaurant Inpestion Scores in Austin, Texas](https://github.com/minuptt/Restaurant_Inspection_Scores)
+# [3. Restaurant Inspection Scores in Austin, Texas](https://github.com/minuptt/Restaurant_Inspection_Scores)
 
 * In this project, we will explore a dataset that includes the safety scores for restaurants in the city of Austin, Texas. 
 * We will be interested in determining the average score for the city from a random sample of the scores; the average restaurant score in out of 100. 
