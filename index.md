@@ -27,7 +27,10 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [HCM City 2020 High School Graduation Exam Scores](https://github.com/minuptt/HCMC_Scores_2020)
+![](images/problem3.png)
+![](images/problem4_1.png)
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
