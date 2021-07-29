@@ -4,7 +4,7 @@
 
 ### Projects 
 
-# [HIV Estimated Prevalence](https://github.com/minuptt/HIV_Estimated_Prevalence)
+# [1. HIV Estimated Prevalence](https://github.com/minuptt/HIV_Estimated_Prevalence)
 
 * Discovering and analyzing about HIV estimated prevalence of people ages from 15 to 49 in the world from 1979 to 2011
 ![](/images/prj1_mean_charts.png)
@@ -17,7 +17,11 @@
 * Define confidence interval and P-value to validate the hypothesis
 ![](images/prj2_income.png)
 
-# [3 Restaurant Inpestion Scores in Austin, Texas](https://github.com/minuptt/Restaurant_Inspection_Scores)
+# [3. Restaurant Inpestion Scores in Austin, Texas](https://github.com/minuptt/Restaurant_Inspection_Scores)
+
+* In this project, we will explore a dataset that includes the safety scores for restaurants in the city of Austin, Texas. 
+* We will be interested in determining the average score for the city from a random sample of the scores; the average restaurant score in out of 100. 
+* We'll compare 2 method for computing a confidence interval for that quantity: the bootstrap resampling method and an approximation based on the Central Limit Theorem.
 ![](images/prj3_resampledmean_interval_popmean.png)
 ---
 
