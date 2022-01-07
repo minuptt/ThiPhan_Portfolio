@@ -37,7 +37,7 @@
 
 * Collect all related data (2020); 
 * Cleaning, discovering, and analyzing exam scores
-![](images/images/problem3.png)
+![](images/problem3.png)
 ---
 
 ### Category Name 2
