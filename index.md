@@ -20,11 +20,6 @@ against the test data ( Linear Regression, Support Vector Machines (SVMs), Decis
 Forest)
 ![](/images/seasonal_sale_shippingcomp.png)
 
-# [Predicting Potential Donors and Dollars](https://github.com/minuptt/Predicting_Potential_DonorsnDollars)
-
-* Using Classification and Predictive Models to Increase Profitability of a Random Marketing Campaign
-![](/images/neural_network_donr.png)
-
 # [HIV Estimated Prevalence](https://github.com/minuptt/HIV_Estimated_Prevalence)
 
 * Discovering and analyzing about HIV estimated prevalence of people ages from 15 to 49 in the world from 1979 to 2011
@@ -56,6 +51,10 @@ Forest)
 
 - [Seattle, WA Real Estate Market - Trends & Analysis](https://prod-useast-b.online.tableau.com/#/site/minuptt/views/SeattleWARealEstateMarketTrendsAnalysis/HousingPriceinSeattle?:iid=3)
 ![](images/Seattle_Stories.png)
+- [Predicting Potential Donors and Dollars](https://github.com/minuptt/Predicting_Potential_DonorsnDollars)
+
+* Using Classification and Predictive Models to Increase Profitability of a Random Marketing Campaign
+![](/images/neural_network_donr.png)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
