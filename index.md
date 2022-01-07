@@ -42,7 +42,8 @@
 
 ### Category Name 2
 
-- [Project 2 Title](http://example.com/)
+- [Seattle, WA Real Estate Market - Trends & Analysis](https://prod-useast-b.online.tableau.com/#/site/minuptt/views/SeattleWARealEstateMarketTrendsAnalysis/HousingPriceinSeattle?:iid=3)
+![](images/Seattle_Stories.png)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
