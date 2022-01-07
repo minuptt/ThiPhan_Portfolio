@@ -53,7 +53,7 @@ Forest)
 ![](images/Seattle_Stories.png)
 - [Predicting Potential Donors and Dollars](https://github.com/minuptt/Predicting_Potential_DonorsnDollars)
 
-* Using Classification and Predictive Models to Increase Profitability of a Random Marketing Campaign
+Using Classification and Predictive Models to Increase Profitability of a Random Marketing Campaign
 ![](/images/neural_network_donr.png)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
