@@ -13,6 +13,13 @@
 * Analyzing author's collaboration for all articles from 2001 - 2020
 ![](/images/LDA_topic_modeling.png)
 
+# [The Covid-19 impact of the small business - shipping company](https://github.com/minuptt/The_Covid-19_Impact_of_Small_Business)
+
+* Using the training samples to fit the model using various algorithms and validate the model
+against the test data ( Linear Regression, Support Vector Machines (SVMs), Decision Tree, Random
+Forest)
+![](/images/seasonal_sale_shippingcomp.png)
+
 # [Predicting Potential Donors and Dollars](https://github.com/minuptt/Predicting_Potential_DonorsnDollars)
 
 * Using Classification and Predictive Models to Increase Profitability of a Random Marketing Campaign
