@@ -20,13 +20,13 @@ against the test data ( Linear Regression, Support Vector Machines (SVMs), Decis
 Forest)
 ![](/images/seasonal_sale_shippingcomp.png)
 
-# [Amazon Employee Reviews Analysis using Natural Language Processing]
-(https://github.com/minuptt/Amazon_Employee_Review)
+# [Amazon Employee Reviews Analysis using Natural Language Processing](https://github.com/minuptt/The_Covid-19_Impact_of_Small_Business)
 
 * Predicting sentiment of employee reviews,
 * Classifying positive and negative sentiment of employee reviews,
 * Building the topic modeling to see what the topics indicated on
 ![](/images/AMZ_wordcloud.png)
+
 
 # [HIV Estimated Prevalence](https://github.com/minuptt/HIV_Estimated_Prevalence)
 
