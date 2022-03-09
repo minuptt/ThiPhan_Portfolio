@@ -25,7 +25,7 @@ Forest)
 * Predicting sentiment of employee reviews,
 * Classifying positive and negative sentiment of employee reviews,
 * Building the topic modeling to see what the topics indicated on
-![](/images/AMZ_wordcloud.png)
+![](/images/AMZ_Wordcloud.png)
 
 
 # [HIV Estimated Prevalence](https://github.com/minuptt/HIV_Estimated_Prevalence)
