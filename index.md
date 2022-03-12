@@ -31,7 +31,7 @@ Forest)
 # [HIV Estimated Prevalence](https://github.com/minuptt/HIV_Estimated_Prevalence)
 
 * Discovering and analyzing about HIV estimated prevalence of people ages from 15 to 49 in the world from 1979 to 2011
-![](/images/prj1_mean_charts.png)
+![](/images/ERD_Pic.png)
 
 # [Gender Pay Gap Salary Prediction](/https://github.com/minuptt/Gender_Pay_Salary_Prediction)
 
@@ -55,13 +55,16 @@ Forest)
 ![](images/problem3.png)
 ---
 
-### Category Name 2
+### Other Projects
 
 # [Seattle, WA Real Estate Market - Trends & Analysis](https://prod-useast-b.online.tableau.com/#/site/minuptt/views/SeattleWARealEstateMarketTrendsAnalysis/HousingPriceinSeattle?:iid=3)
 ![](images/Seattle_Stories.png)
-# [Predicting Potential Donors and Dollars](https://github.com/minuptt/Predicting_Potential_DonorsnDollars)
 
+# [Predicting Potential Donors and Dollars](https://github.com/minuptt/Predicting_Potential_DonorsnDollars)
 - Using Classification and Predictive Models to Increase Profitability of a Random Marketing Campaign
+![](/images/neural_network_donr.png)
+
+# [Children's E-book Library Management System](https://github.com/minuptt/Children-s_Ebook_Library)
 ![](/images/neural_network_donr.png)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
