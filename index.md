@@ -66,9 +66,7 @@ Forest)
 
 # [Children's E-book Library Management System](https://github.com/minuptt/Children-s_Ebook_Library)
 ![](/images/ERD_Pic.png)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
