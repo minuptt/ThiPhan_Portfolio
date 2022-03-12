@@ -31,7 +31,7 @@ Forest)
 # [HIV Estimated Prevalence](https://github.com/minuptt/HIV_Estimated_Prevalence)
 
 * Discovering and analyzing about HIV estimated prevalence of people ages from 15 to 49 in the world from 1979 to 2011
-![](/images/ERD_Pic.png)
+![](/images/prj1_mean_charts.png)
 
 # [Gender Pay Gap Salary Prediction](/https://github.com/minuptt/Gender_Pay_Salary_Prediction)
 
@@ -65,7 +65,7 @@ Forest)
 ![](/images/neural_network_donr.png)
 
 # [Children's E-book Library Management System](https://github.com/minuptt/Children-s_Ebook_Library)
-![](/images/neural_network_donr.png)
+![](/images/ERD_Pic.png)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
