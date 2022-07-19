@@ -27,6 +27,13 @@ Forest)
 * Building the topic modeling to see what the topics indicated on
 ![](/images/AMZ_Wordcloud.png)
 
+# [Hotel Reviews Rating Sentiment Analysis]
+(https://github.com/minuptt/Hotel-Reviews-Sentiment)
+
+* Find distribustion customer ratings,
+* Find top 10 comment of the reviews,
+* Classifying positive, negative, and neutral sentiment and their score
+![](/images/AMZ_Wordcloud.png)
 
 # [HIV Estimated Prevalence](https://github.com/minuptt/HIV_Estimated_Prevalence)
 
