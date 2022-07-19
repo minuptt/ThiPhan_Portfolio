@@ -59,6 +59,7 @@ Forest)
 
 * Collect all related data (2020); 
 * Cleaning, discovering, and analyzing exam scores
+* 
 ![](images/problem3.png)
 ---
 
