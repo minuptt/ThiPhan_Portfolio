@@ -33,7 +33,7 @@ Forest)
 * Find distribustion customer ratings,
 * Find top 10 comment of the reviews,
 * Classifying positive, negative, and neutral sentiment and their score
-![](/images/AMZ_Wordcloud.png)
+![](/images/hotel_reviews_rating.png)
 
 # [HIV Estimated Prevalence](https://github.com/minuptt/HIV_Estimated_Prevalence)
 
